@@ -10,4 +10,4 @@ The data used in this analysis is the Online Shoppers Purchasing Intention Datas
 
 # Running
 
-Download ibynb file. Upload the data set and change "dataset=pd.read_csv('/content/dataset_folder/dataset.csv')" according to your path. Then you can run the file. 
+Download ibynb file and dataset. Upload the data set and change "dataset=pd.read_csv('/content/dataset_folder/dataset.csv')" according to your file path. Then you can run the file. 
