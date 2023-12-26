@@ -1,1 +1,3 @@
 # Purchasing-Intention-Prediction-An-Artificial-Neural-Network-Approach
+
+This project aims to develop and evaluate an artificial neural network (ANN) model to predict the purchasing intention of online shoppers using the Online Shoppers Purchasing Intention Dataset. The model will be developed using Keras, a popular artificial neural network library with a TensorFlow backend. The dataset contains a variety of features, including demographic information, product characteristics, and browsing behavior. The model will be trained on the dataset to learn the relationships between the features and the purchasing intention of online shoppers.
